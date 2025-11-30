@@ -9,31 +9,17 @@ This repository presents an end-to-end data analytics project analyzing 15,000 g
 📌 Project Objectives
 
 Identify global salary trends across AI roles, countries, and industries
-
 Understand the most in-demand technical skills and their salary impact
-
 Analyze remote vs. hybrid vs. onsite workforce shifts
-
 Compare hiring patterns across company sizes and industries
-
 Build a dynamic Power BI dashboard connected to SQL for real-time analytics
 
-📁 Dataset Overview
 
-Source: Kaggle – Global AI Job Market Trend 2025
-
-Records: 15,000 job postings
-
-Fields (29 columns):
-
+Fields (19 columns):
 Job Title, Salary (USD & local), Experience Level, Employment Type
-
 Required Skills, Education Level
-
 Employer Location, Company Size, Remote Ratio
-
 Industry, Posting Date, Benefits Score, Description Length
-
 and more…
 
 🛠 Tech Stack
